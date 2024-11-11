@@ -8,7 +8,7 @@
   <img align="right" src="personagem.png" alt="Imagem de personagem" height="150">-->
  
 <div style="display: inline-block; vertical-align: middle;">
-  <img src="personagem.png" alt="Imagem de personagem" width="100" height="100" style="margin-right: 10px;">
+  <img align="right" src="personagem.png" alt="Imagem de personagem" height="150" >
 </div>
 <div style="display: inline-block; vertical-align: middle;">
   <p>De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
