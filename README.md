@@ -5,8 +5,8 @@
 <!--**`Desenvolvedor FullStack`**-->
 
 <div style="display: inline-block; vertical-align: middle;">
-  <p>De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
-  <img src="personagem.png" alt="Imagem de personagem" height="150">
+  <p align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
+  <img align="right" src="personagem.png" alt="Imagem de personagem" height="150">
 </div>
  
 <div> 
