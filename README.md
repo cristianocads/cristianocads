@@ -8,64 +8,9 @@
   <img align="right" src="personagem.png" alt="Imagem de personagem" height="150">-->
  
 <div style="display: inline-block">
-  <img align="right" src="personagem.png" alt="Imagem de personagem" height="150" >
+  <img align="right" src="personagem.png" alt="Imagem de personagem" height="200" >
   <p align="center">De Piloto da Aviação de Caça a Desenvolvedor de Software
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  
-  c
-  c
-  c
-  
-  c
-  c
-  c
-  c
-  c
-  c
-  c
-  
-  c
-  c
-  c
-  c
-  
-  c
-  c
-  c
-  c
-  
-  c</p>
+  </p></br></br></br></br></br>
 </div></br>
 
 <div> 
