@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=header" style="margin-bottom: 0; padding-bottom: 0;"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=header"/>
 
 ## Bem-vindo, eu sou o Cristiano Aguiar
 
