@@ -3,10 +3,17 @@
 ## Bem-vindo, eu sou o Cristiano Aguiar
 
 <!--**`Desenvolvedor FullStack`**-->
-<div style="display: inline-block">
+<!--<div style="display: inline-block">
   <p align="center">De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
-  <img align="right" src="personagem.png" alt="Imagem de personagem" height="150">
+  <img align="right" src="personagem.png" alt="Imagem de personagem" height="150">-->
  
+<div style="display: inline-block; vertical-align: middle;">
+  <img src="personagem.png" alt="Imagem de personagem" width="100" height="100" style="margin-right: 10px;">
+</div>
+<div style="display: inline-block; vertical-align: middle;">
+  <p>De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
+</div>
+
 <div> 
     <a href="https://instagram.com/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href="https://www.linkedin.com/in/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
