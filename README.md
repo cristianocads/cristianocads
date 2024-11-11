@@ -10,7 +10,7 @@
 <div style="display: inline-block">
   <img align="right" src="personagem.png" alt="Imagem de personagem" height="150" >
   <p align="center">De Piloto da Aviação de Caça a Desenvolvedor de Software</p>
-</div>
+</div></br>
 
 <div> 
     <a href="https://instagram.com/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
