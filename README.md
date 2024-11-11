@@ -9,7 +9,7 @@
  
 <div style="display: inline-block">
   <img align="right" src="personagem.png" alt="Imagem de personagem" height="200" >
-  <p align="center">De Piloto da Aviação de Caça a Desenvolvedor de Software
+  <p align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software
   </p></br></br></br></br></br>
 </div></br>
 
