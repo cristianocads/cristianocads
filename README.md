@@ -11,7 +11,7 @@
   <img align="right" src="personagem.png" alt="Imagem de personagem" height="200" >
   <p align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software
   </p></br></br></br></br></br>
-</div></br>
+</div>
 
 <div> 
     <a href="https://instagram.com/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -41,8 +41,8 @@
 
 <div>  
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cristiano Aguiar github stats" style="border:1px solid #00bfbf; border-radius:8px;" /> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" style="border:1px solid #00bfbf; border-radius:8px;" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&include_all_commits=true&locale=pt-br&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cristiano Aguiar github stats" style="border:2px solid #00bfbf; border-radius:8px;" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" style="border:2px solid #00bfbf; border-radius:8px;" />
 </div> 
 
 <!-- <div align="center">
