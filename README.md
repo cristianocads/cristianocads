@@ -14,19 +14,18 @@
   <img align="right" src="personagem2.png" alt="Imagem de personagem" height="180" 
        style="margin-top: 0; margin-right: 20; margin-left: 20;">
   <h4 align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software.</h4>
-  <p align="justify" style="text-align: justify; margin-right: 220;">
+  <p align="justify" style="text-align: justify; margin-right: 400;">
     Motivado por desafios e evolução constante. Agora, sigo meu novo voo como desenvolvedor de software, 
     mergulhando no universo Fullstack para criar soluções inteligentes e inovadoras. Adoro explorar 
     possibilidades, resolver problemas e transformar ideias em realidade por meio da tecnologia.
   </p>
-</div>
+</div></br>
 
 <div> 
     <a href="https://instagram.com/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href="https://www.linkedin.com/in/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href = "mailto:cristianocads@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
 ##
 
 ### 💾 Linguagens e Tecnologias
