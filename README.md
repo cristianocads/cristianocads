@@ -10,6 +10,16 @@
   <p align="left">Motivado por desafios e evolução constante. Agora, sigo meu novo voo como desenvolvedor de software, mergulhando no universo Fullstack para criar soluções inteligentes e inovadoras. Adoro explorar possibilidades, resolver problemas e transformar ideias em realidade por meio da tecnologia.
   </p></br></br></br>
 </div>
+<div style="display: inline-block; width: 100%;">
+  <img align="right" src="personagem2.png" alt="Imagem de personagem" height="180" 
+       style="margin-top: 10px; margin-right: 20px; margin-left: 20px;">
+  <h4 align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software.</h4>
+  <p align="justify" style="text-align: justify; margin-right: 220px;">
+    Motivado por desafios e evolução constante. Agora, sigo meu novo voo como desenvolvedor de software, 
+    mergulhando no universo Fullstack para criar soluções inteligentes e inovadoras. Adoro explorar 
+    possibilidades, resolver problemas e transformar ideias em realidade por meio da tecnologia.
+  </p>
+</div>
 
 <div> 
     <a href="https://instagram.com/cristianocads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
