@@ -31,12 +31,12 @@
 ### 📊 Github Estatísticas
 
 <div> 
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=cristianocads&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=8&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cristianocads&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=8&locale=pt-br"/>
    
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br"/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocads&theme=codeSTACKr&height=150&show_icons=true&count_private=true&include_all_commits=true)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocads&theme=codeSTACKr&show_icons=true&count_private=true&include_all_commits=true)
+
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=footer"/>
