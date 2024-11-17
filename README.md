@@ -36,7 +36,12 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=normal&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br"/>
 
  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&include_all_commits=true&theme=transparent" alt="Cristiano's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent" /></a> |
-| ------------- | ------------- |
+
+
+[![Cristiano's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&include_all_commits=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div> 
 
