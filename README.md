@@ -31,7 +31,7 @@
 ### 📊 Github Estatísticas
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=8&locale=pt-br" alt="Cristiano's github stats" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent&include_private=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br" /></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br" /></a> 
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=80&section=footer"/>
