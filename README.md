@@ -39,7 +39,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&locale=pt-br&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Cristiano Aguiar github stats" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&locale=pt-br" />
 </div> -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocads)](https://github.com/anuraghazra/github-readme-stats)
 <div> 
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&include_commits=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1px&border_color=00bfbf&border_radius=8px&locale=pt-br" alt="Cristiano Aguiar github stats" />
   
