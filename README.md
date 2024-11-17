@@ -25,7 +25,7 @@
 ### 💾 Linguagens e Tecnologias
 <div style="display: inline_block">
     <img align="center" alt="JS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-    <img width="6" />
+    <!-- <img width="6" /> -->
     <img align="center" alt="CSS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img width="6" />
     <img align="center" alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
