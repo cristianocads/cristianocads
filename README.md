@@ -43,7 +43,7 @@
 <div>  
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=false&include_all_commits=false&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1px&border_color=00bfbf&border_radius=8px&locale=pt-br" alt="Cristiano Aguiar github stats"/> 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1px&border_color=00bfbf&border_radius=8px&locale=pt-br"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=cristianocads&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
 </div> 
 
 <!-- <div align="center">
