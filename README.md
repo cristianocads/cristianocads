@@ -8,7 +8,7 @@
   <img align="right" src="personagem2.png" alt="Imagem de personagem" height="180" 
        style="margin-top: 0; margin-right: 20; margin-left: 20;">
   <h4 align="left">De Piloto da Aviação de Caça a Desenvolvedor de Software.</h4>
-  <p align="justify" style="text-align: justify; margin-right: 600;">
+  <p align="justify" style="text-align: justify;">
     Motivado por desafios e evolução constante. Agora, sigo meu novo voo como desenvolvedor de software, 
     mergulhando no universo Fullstack para criar soluções inteligentes e inovadoras. Adoro explorar 
     possibilidades, resolver problemas e transformar ideias em realidade por meio da tecnologia.
