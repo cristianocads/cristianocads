@@ -25,7 +25,6 @@
 
 ### 💾 Linguagens e Tecnologias
 
-
 <div align="center" style="display: inline_block">
     <img align="center" alt="JS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
     <img width="3" />
@@ -38,11 +37,8 @@
 </div>
 </br>
 
-<div align="center">
-
 ### 📊 Github Estatísticas
 
-</div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=8&locale=pt-br" alt="Cristiano's github stats" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br" /></a> 
@@ -52,7 +48,7 @@
 ###
 
   <div align="center">
-  ![GitHub watchers](https://img.shields.io/github/watchers/cristianocads)
+  
 </div>
  
 
