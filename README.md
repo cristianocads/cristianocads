@@ -23,16 +23,17 @@
 
 ##
 
+<div align="center>
+
 ### 💾 Linguagens e Tecnologias
 <div style="display: inline_block">
-    <img align="center" alt="JS" height="35" src="https://skillicons.dev/icons?i=js"/>
+    <img align="center" alt="JS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
     <img width="3" />
     <img align="center" alt="CSS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img width="3" />
     <img align="center" alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img width="3" />
     <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-    <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
  
 </div>
 </br>
@@ -42,10 +43,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=cristianocads&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=8&locale=pt-br" alt="Cristiano's github stats" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocads&layout=compact&theme=transparent&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&border=1&border_color=00bfbf&border_radius=5&locale=pt-br" /></a> 
 
+</div>
+
 ###
 
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianocads.cristianocads&left_color=grey"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianocads.visitor-badge&left_color=grey"  />
 </div>
  
 
