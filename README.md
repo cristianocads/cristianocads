@@ -32,7 +32,7 @@
     <img align="center" alt="HTML5" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img width="3" />
     <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg
+    <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
  
 </div>
 </br>
@@ -45,7 +45,7 @@
 ###
 
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SuianeHenrichs1.SuianeHenrichs1&left_color=pink"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cristianocads.cristianocads&left_color=grey"  />
 </div>
  
 
