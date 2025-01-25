@@ -40,7 +40,9 @@
     <img width="3" />
     <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
     <img width="3" />
-    <img align="center" alt="Photoshop" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+    <img align="center" alt="Photoshop" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />    
+    <img align="center" alt="Photoshop" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+         
  
 </div>
 </br>
