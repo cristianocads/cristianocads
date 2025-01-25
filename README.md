@@ -34,6 +34,8 @@
     <img width="3" />
     <img align="center" alt="CSS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img width="3" />
+    <img align="center" alt="Wordpress" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+    <img width="3" />
     <img align="center" alt="GIT" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img width="3" />
     <img align="center" alt="Canva" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
