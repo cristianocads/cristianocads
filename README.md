@@ -26,7 +26,7 @@
 ### 💾 Linguagens e Tecnologias
 
 <div style="display: inline_block">
-    <img align="center" alt="JS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="JS" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="3" />
     <img align="center" alt="PHP" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     <img width="3" />          
